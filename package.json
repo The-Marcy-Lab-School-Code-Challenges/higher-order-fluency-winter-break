@@ -1,0 +1,17 @@
+{
+  "name": "higher-order-fluency-winter-break",
+  "version": "1.0.0",
+  "description": "Code Challenge: Higher Order Functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
+
