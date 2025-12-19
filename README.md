@@ -2,11 +2,17 @@
 
 ## Instructions
 
-1. Clone down this assignment to your `code-challenges' directory in AWS Cloud9.
-2. Create a new file in the repo called `index.js` and code your solutions there.
-3. **Be sure to run and test your code throughly!**
-4. By the end of Code Challenge, **commit regularly and push your changes up to Github**.
-5. Using the browser, verify that your solution is in your remote repo on Github.
+1. Clone down this assignment to your `code-challenges' directory to your development directory, and open in VSCode.
+2. Creat a draft branch with the command `checkout -b draft`
+3. Create a new file in the repo called `index.js` and code your solutions there.
+4. **Be sure to run and test your code throughly!**
+5. Run the tests to check solutions
+6. Push your code 
+
+
+## Testing Instructions
+1. Run the `npm i` command to install dependencies
+2. Run `npm test` to run the tests
 
 ## Code Problems
 
